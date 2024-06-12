@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CareerCruise</string>
+    <string name="landing_txt">Navigate your career journey effortlessly. Find clarity, seize opportunities, thrive.Empowering your career choices. Explore, decide, succeed"</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

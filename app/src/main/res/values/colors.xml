@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text">#FF000000</color>
+    <color name="background">#FDFBFC</color>
+    <color name="your_status_bar_color">#FDFBFC</color>
+    <!--Gradient_Colors-->
+    <color name="G_start">#FDFBFC</color>
+    <color name="G_center">#D6FDFBFC</color>
+    <color name="G_end">#80FDFBFC</color>
+    <!--Landing page Colors-->
+    <color name="colorFragment1">#4869EC</color>
+    <color name="colorFragment2">#0095E9</color>
+    <color name="colorFragment3">#00BB8E</color>
+</resources>
